@@ -1,6 +1,6 @@
 # 🍦jeeinho🍦 - Backend Developer
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DavidHabot&show_icons=true&theme=vuefy)](https://github.com/key-del-jeeinho/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidHabot&hide=r,jupyter%20notebook,c%23)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=key-del-jeeinho&show_icons=true&theme=vuefy)](https://github.com/key-del-jeeinho/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=key-del-jeeinho&hide=r,jupyter%20notebook,c%23)](https://github.com/anuraghazra/github-readme-stats)
 
 `#GSM2020` `#Spring` `#Backend` `#Highteen`
 
