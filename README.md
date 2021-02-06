@@ -13,7 +13,7 @@
 ||이름|설명|진행|
 |---|---|---|---|
 |![](https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png)|Java|OOP패러다임을 이해하고, 능숙하게 사용 할 수 있습니다|![95%](https://progress-bar.dev/95)|
-|![](https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png)|SpringFW|스프링의 주요기술을 이해하며 Spring framework를 사용하여 백엔드 개발을 할 수 있습니다|![10%](https://progress-bar.dev/60)|
+|![](https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png)|SpringFW|스프링의 주요기술을 이해하며 Spring framework를 사용하여 백엔드 개발을 할 수 있습니다|![10%](https://progress-bar.dev/10)|
 
 ## 📙List\<TO> do = new ArrayList<>();
 - [ ] 커밋 한꺼번에 몰아서 하는 습관 고치기
