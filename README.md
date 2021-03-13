@@ -17,8 +17,8 @@
 
 ## 📙List\<TO> do = new ArrayList<>();
 - [ ] 커밋 한꺼번에 몰아서 하는 습관 고치기
-- [ ] 자바 프로젝트 수행
-- [ ] Spring 관련 프로젝트 하나 진행해보기
+- [x] 자바 프로젝트 수행
+- [x] Spring 관련 프로젝트 하나 진행해보기
 - [ ] css, js 연습
 
 ![badge](https://img.shields.io/badge/github-GIVEME--STAR-red)
