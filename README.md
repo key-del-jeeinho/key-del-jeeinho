@@ -1,6 +1,9 @@
 # 🍦jeeinho🍦 - Backend Developer
+## Github statistics
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=key-del-jeeinho&show_icons=true&theme=vuefy)](https://github.com/key-del-jeeinho/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=key-del-jeeinho&hide=r,jupyter%20notebook,c%23)](https://github.com/anuraghazra/github-readme-stats)
+## My Velog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=xylopeofficial)](https://github.com/eungyeole/velog-readme-stats)
 
 `#GSM2020` `#Spring` `#Backend` `#Highteen`
 
