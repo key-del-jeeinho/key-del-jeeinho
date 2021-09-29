@@ -13,12 +13,28 @@
 > **Backend Developer**
 > 초등학교 1학년때, C를 통해 프로그래밍을 시작해서 현재 고 2(2021년 기준) 까지 꾸준히 개발을 하고있는 개발자 지망생 입니다.
 > Java를 주로 쓰고 Spring FW 를 활용한 Backend 개발을 주 전공분야로 살고 있습니다.
+> 저에대해 더 알고싶다면 [노션](https://painted-margin-b61.notion.site/Jeeinho-Backend-Developer-6426ab9c95ee4ec787992816ebb304ec)  을 참고해주세요!
 
 ## 📘Technologies Used
-||이름|설명|진행|
-|---|---|---|---|
-|![](https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png)|Java|OOP패러다임을 이해하고, 능숙하게 사용 할 수 있습니다|![95%](https://progress-bar.dev/95)|
-|![](https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png)|SpringFW|스프링의 주요기술을 이해하고있습니다(IoC, DI, PSA 등)|![70%](https://progress-bar.dev/70)|
+- **Java**
+    
+    Stream, Lamda 등 고급기술들을 응용할 수 있으며, **OOP, SOLID 원칙들** 또한 당연하게 적용할 수 있습니다. 또한, Gradle 같은 빌드툴을 활용해 직접 어플리케이션의 생명주기를 관리할 수 있습니다.
+    
+- **Spring Boot framework**
+    
+    SpringBoot 를 통해 CRUD 는 물론 RestAPI 를 이용한 심화적인 프로젝트또한 진행 할 수 있습니다.
+    
+- **Spring Framework**
+    
+    Spring 이 만들어진 이유부터 스프링의 주요이념들을 이해하고, 코드에 적용시킬 수 있습니다.
+    
+- **JSP and Servlet Basics**
+    
+    JSP 의 템플릿 엔진으로서의 기능 뿐 아니라 서블릿으로서의 기능또한 어느정도 사용할 수 있습니다.
+    
+- **MySQL**
+    
+    간단한 CRUD 쿼리문을 사용할 수 있고, DB에 대한 약간의 원리를 알고 있습니다.
 
 ## 📙List\<TO> do = new ArrayList<>();
 - [ ] 커밋 한꺼번에 몰아서 하는 습관 고치기
