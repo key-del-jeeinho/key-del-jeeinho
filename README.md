@@ -1,4 +1,17 @@
 # 🍦jeeinho🍦 - Backend Developer
+## 꾸준히 성장하는 개발자 지인호 입니다
+> **Backend Developer**
+> 안녕하세요! 에자일한 개발자 지인호 입니다!
+> 
+> 배움, 실습, 프로젝트, 피드백 4가지 단계를 반복하며, `가장 효율적인 개발자`가 되기 위해 변화합니다
+
+## 저는 이렇습니다
+-  **퍼즐 같은 개발의 재미**에 푹 빠져있습니다   
+- **배움** 을 그 무엇보다 중요한 가치로 생각하기에 1일 1시간, 여러 강의나 지식 유튜브들을 보고 있습니다.
+- 깔끔하고 변경이 용이한 코드를 짜려고 항상 **3번이상** 고민합니다!
+- **재미** 와 **단순함**, 그리고 **SW공학**을 좋아합니다.
+
+
 ## Github statistics
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=key-del-jeeinho&show_icons=true&theme=vuefy)](https://github.com/key-del-jeeinho/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=key-del-jeeinho&hide=r,jupyter%20notebook,c%23)](https://github.com/anuraghazra/github-readme-stats)
@@ -7,13 +20,7 @@
 ## My Velog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=xylopeofficial)](https://velog.io/@xylopeofficial/%EC%86%8C%EB%A7%88%EA%B3%A0%EA%B0%80-%EA%B3%A0%EC%A1%B8%EC%B7%A8%EC%97%85%EC%9D%84-%EC%A4%80%EB%B9%84%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
 
-`#GSM2020` `#Spring` `#Backend` `#Highteen`
-
-## 📗Introduce Your Self
-> **Backend Developer**
-> 초등학교 1학년때, C를 통해 프로그래밍을 시작해서 현재 고 2(2021년 기준) 까지 꾸준히 개발을 하고있는 개발자 지망생 입니다.
-> Java를 주로 쓰고 Spring FW 를 활용한 Backend 개발을 주 전공분야로 살고 있습니다.
-> 저에대해 더 알고싶다면 [노션](https://painted-margin-b61.notion.site/Jeeinho-Backend-Developer-6426ab9c95ee4ec787992816ebb304ec)  을 참고해주세요!
+`#GSM2020` `#SpringBoot` `#Backend` `#Highteen`
 
 ## 📘Technologies Used
 - **Java**
@@ -22,7 +29,9 @@
     
 - **Spring Boot framework**
     
-    SpringBoot 를 통해 CRUD 는 물론 RestAPI 를 이용한 심화적인 프로젝트또한 진행 할 수 있습니다.
+    SpringBoot 를 통해 CRUD 는 물론 RestAPI 를 이용한 심화적인 프로젝트또한 진행해보았고, 이에 **Java 와 Spring에서 제공하는 여러 기능들을 도입하고, 보완**해왔습니다.
+    **비즈니스 로직에만 집중하게해주는** 스프링의 여러 기능들을 이해하고 있습니다 (AoP, Proxy, IoC, DI 등)
+    
     
 - **Spring Framework**
     
