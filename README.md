@@ -1,9 +1,8 @@
 # 🍦jeeinho🍦 - Backend Developer
 ## 꾸준히 성장하는 개발자 지인호 입니다
-> **Backend Developer**
-> 안녕하세요! 에자일한 개발자 지인호 입니다!
+> 안녕하세요! `에자일한 개발자` 지인호 입니다!
 > 
-> 배움, 실습, 프로젝트, 피드백 4가지 단계를 반복하며, `가장 효율적인 개발자`가 되기 위해 변화합니다
+> 배움, 실습, 프로젝트, 피드백 4가지 단계를 반복하며, `더욱 질 좋은 개발자`가 되기 위해 변화합니다
 
 ## 저는 이렇습니다
 -  **퍼즐 같은 개발의 재미**에 푹 빠져있습니다   
@@ -11,7 +10,24 @@
 - 깔끔하고 변경이 용이한 코드를 짜려고 항상 **3번이상** 고민합니다!
 - **재미** 와 **단순함**, 그리고 **SW공학**을 좋아합니다.
 
-
+## 📘Technologies Used
+- **Java**
+    
+    Stream, Lamda 등 고급기술들을 응용할 수 있으며, **OOP, SOLID 원칙들** 또한 당연하게 적용할 수 있습니다. 또한, Gradle 같은 빌드툴을 활용해 직접 어플리케이션의 생명주기를 관리할 수 있습니다.
+    
+- **Spring Boot framework (And Spring)**
+    
+    SpringBoot 를 통해 CRUD 는 물론 RestAPI 를 이용한 심화적인 프로젝트또한 진행해보았고, 이에 **Java 와 Spring에서 제공하는 여러 기능들을 도입하고, 보완**해왔습니다.
+    **비즈니스 로직에만 집중하게해주는** 스프링의 여러 기능들을 이해하고 있습니다 (AoP, Proxy, IoC, DI 등)
+    
+- **JSP and Servlet Basics**
+    
+    JSP 의 템플릿 엔진으로서의 기능 뿐 아니라 서블릿으로서의 기능또한 어느정도 사용할 수 있습니다.
+    
+- **MySQL**
+    
+    간단한 CRUD 쿼리문을 사용할 수 있습니다.
+    
 ## Github statistics
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=key-del-jeeinho&show_icons=true&theme=vuefy)](https://github.com/key-del-jeeinho/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=key-del-jeeinho&hide=r,jupyter%20notebook,c%23)](https://github.com/anuraghazra/github-readme-stats)
@@ -22,34 +38,6 @@
 
 `#GSM2020` `#SpringBoot` `#Backend` `#Highteen`
 
-## 📘Technologies Used
-- **Java**
-    
-    Stream, Lamda 등 고급기술들을 응용할 수 있으며, **OOP, SOLID 원칙들** 또한 당연하게 적용할 수 있습니다. 또한, Gradle 같은 빌드툴을 활용해 직접 어플리케이션의 생명주기를 관리할 수 있습니다.
-    
-- **Spring Boot framework**
-    
-    SpringBoot 를 통해 CRUD 는 물론 RestAPI 를 이용한 심화적인 프로젝트또한 진행해보았고, 이에 **Java 와 Spring에서 제공하는 여러 기능들을 도입하고, 보완**해왔습니다.
-    **비즈니스 로직에만 집중하게해주는** 스프링의 여러 기능들을 이해하고 있습니다 (AoP, Proxy, IoC, DI 등)
-    
-    
-- **Spring Framework**
-    
-    Spring 이 만들어진 이유부터 스프링의 주요이념들을 이해하고, 코드에 적용시킬 수 있습니다.
-    
-- **JSP and Servlet Basics**
-    
-    JSP 의 템플릿 엔진으로서의 기능 뿐 아니라 서블릿으로서의 기능또한 어느정도 사용할 수 있습니다.
-    
-- **MySQL**
-    
-    간단한 CRUD 쿼리문을 사용할 수 있고, DB에 대한 약간의 원리를 알고 있습니다.
-
-## 📙List\<TO> do = new ArrayList<>();
-- [ ] 커밋 한꺼번에 몰아서 하는 습관 고치기
-- [x] 자바 프로젝트 수행
-- [x] Spring 관련 프로젝트 하나 진행해보기
-- [ ] css, js 연습
 
 ![badge](https://img.shields.io/badge/github-GIVEME--STAR-red)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDavidHabot&count_bg=%234FC83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
