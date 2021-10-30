@@ -40,4 +40,5 @@
 
 
 ![badge](https://img.shields.io/badge/github-GIVEME--STAR-red)
+[![wakatime-since-2021-08](https://wakatime.com/badge/user/9ac46ecd-614f-4eb7-be89-6776962877a4.svg)](https://wakatime.com/@9ac46ecd-614f-4eb7-be89-6776962877a4)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDavidHabot&count_bg=%234FC83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
