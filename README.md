@@ -32,7 +32,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=key-del-jeeinho&show_icons=true&theme=vuefy)](https://github.com/key-del-jeeinho/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=key-del-jeeinho&hide=r,jupyter%20notebook,c%23)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=key-del-jeeinho&no-frame=true&row=1&column=6&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy?)
+[![trophy](https://github-profile-trophy.vercel.app/?username=key-del-jeeinho&no-frame=true&row=1&column=6&no-bg=true)](https://github.com/key-del-jeeinho/)
 ## My Velog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=xylopeofficial)](https://velog.io/@xylopeofficial/%EC%86%8C%EB%A7%88%EA%B3%A0%EA%B0%80-%EA%B3%A0%EC%A1%B8%EC%B7%A8%EC%97%85%EC%9D%84-%EC%A4%80%EB%B9%84%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
 
