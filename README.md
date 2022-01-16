@@ -6,7 +6,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=key-del-jeeinho&no-frame=true&row=1&column=6&no-bg=true)](https://github.com/key-del-jeeinho/)
 ## My Velog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=xylopeofficial)](https://velog.io/@xylopeofficial/REST-%EA%B7%B8%EA%B2%8C-%EB%8C%80%EC%B2%B4-%EB%AD%94%EB%8D%B0)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=xylopeofficial)](https://velog.io/@xylopeofficial/asynchronized-%EC%99%80-volatile-%EA%B7%B8%EB%A6%AC%EA%B3%A0-Atomic)
 
 `#GSM2020` `#SpringBoot` `#Backend` `#Highteen`
 
