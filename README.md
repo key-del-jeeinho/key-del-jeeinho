@@ -6,7 +6,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=key-del-jeeinho&no-frame=true&row=1&column=6&no-bg=true)](https://github.com/key-del-jeeinho/)
 ## My Velog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=xylopeofficial)](https://velog.io/@xylopeofficial/Spring-Cloud)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=xylopeofficial)](https://velog.io/@xylopeofficial)
 
 `#GSM2020` `#SpringBoot` `#Backend` `#Highteen`
 
