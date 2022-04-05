@@ -25,7 +25,7 @@
 
 당시 제게 복잡한 퍼즐처럼 다가왔던 **C언어 강의 포스트**를 보고선 멘땅에 헤딩식으로 개발을 시작하게 되었습니다.
 
-그렇게 점차 Java, JSP, SpringFramework 를 거쳐, SpringFramework 를 개선한 **SpringBoot Framework** 까지 배우게 되었습니다.
+그렇게 점차 Java, JSP, Spring Framework 를 거쳐, Spring Framework 를 개선한 **Spring Boot Framework** 까지 배우게 되었습니다.
 
 현재는 깔끔하게 코드를 유지하며, 레거시 코드를 리펙토링하여 **소프트웨어의 질을 높이는 방법** 에 대해 배워나가고 있으며, 이를 도와주는 여러 **아키텍처**나 **SW 공학**적인 지식을 탐구하고 있습니다.
 
@@ -44,9 +44,9 @@
 
 프로젝트를 진행하며, 더욱 효율적이고 깔끔한 코드를 짜기위해 노력하던중, SW가 깔끔하게 유지되려면 저혼자만의 노력이 아닌 `팀원 모두의 노력` 이 필요하다는것을 알게 되었습니다.
 
-따라서 저는 개발 가이드 작성법, Github 브랜치를 통한 협업 방법부터
+따라서 저는 개발 가이드 작성법, GitHub 브랜치를 통한 협업 방법부터
 
-Github Project 를 통한 Kanban 보드 작성, API 디자인 방법, Github Milestone 을 이용한 스프린트 기법과 이벤트 스토밍 기법까지
+GitHub Project 를 통한 Kanban 보드 작성, API 디자인 방법, GitHub Milestone 을 이용한 스프린트 기법과 이벤트 스토밍 기법까지
 
 많은 협업방식을시도해보게 되었습니다.
 
