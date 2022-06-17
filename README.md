@@ -24,7 +24,11 @@
 
 Saga패턴같은 트랜젝션 관리기술을 배워나가고있습니다.
 
-Armeria라는 고가용성 MSA개발을 위한 프레임워크에 관심이 많으며, Slack을 통한 이슈제보로, 다음버전(1.17.0)에서 오류가 fix되도록 기여하였습니다.
+Slack과 비슷한 비즈플랫폼인 mattermost에 관심이 많으며, 오픈소스 기여를 위해, CLA를 제출한 상태입니다.
+
+Armeria라는 고가용성 MSA개발을 위한 프레임워크에 관심이 많으며, Slack을 통한 이슈제보로, 다음버전(1.17.0)에서 [오류가 fix되도록](https://github.com/line/armeria/pull/4293) 기여하였습니다.
+
+![image](https://user-images.githubusercontent.com/77221262/174198027-a61a3a7b-e179-4dd7-8746-c05e893997ec.png)
 
 
 ![badge](https://img.shields.io/badge/github-GIVEME--STAR-red)
