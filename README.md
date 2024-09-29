@@ -1,39 +1,16 @@
+### JEE INHO | Raul
+_더 많은 사람들이 상처에 무너지지 않을 수 있도록_
 
+사람들에게 안식(처)과 가치(관)를 제공하기위해 행동합니다.
 
-# 🍦JeeInho🍦 - Backend Developer
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=key-del-jeeinho&show_icons=true&theme=vuefy)](https://github.com/key-del-jeeinho/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ihoo&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+### Impacts
+**2022** 당근마켓 동네 가게 O2O 플랫폼 `비즈프로필` 팀
+- Rule Base 가게 어뷰징 탐지/제재 프로세스 구축
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=key-del-jeeinho&no-frame=true&row=1&column=6&no-bg=true)](https://github.com/key-del-jeeinho/)
-## My Velog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=xylopeofficial)](https://velog.io/@xylopeofficial)
+**2023** 통합 구매대행 상품관리 솔루션 `오후스프링` 개발팀
+- 판매마켓 공통 인증/상품관리 로직 설계
+- 요금제 구독/결제 시스템 구축
 
-`#GSM2020` `#SpringBoot` `#Backend` `#Highteen`
-
-## 성장하는 개발자 지인호입니다
-> 🖐 안녕하세요, 백엔드 개발자 지인호 입니다
-`성장`과 `공유`를 가장 중요시 여기는 개발자입니다.
-
-- 배움을 통해, 자신을 **성장**시키고,
-- 자신이 배운것들을 남들과 **공유**하여
-
-**"SW 문화에 선한 영향력을 끼치는 개발자"** 가 되고 싶습니다.
-
-## Now I do ___
-
-_당근마켓 인턴십 종료 (2022.12.16)_
-
-하위호환성을 유지하는 코드를 작성하고자 노력하고있습니다. 
-
-Saga패턴같은 트랜젝션 관리기술을 배워나가고있습니다.
-
-Slack과 비슷한 비즈플랫폼인 mattermost에 관심이 많으며, 오픈소스 기여를 위해, CLA를 제출한 상태입니다.
-
-Armeria라는 고가용성 MSA개발을 위한 프레임워크에 관심이 많으며, Slack을 통한 이슈제보로, 다음버전(1.17.0)에서 [오류가 fix되도록](https://github.com/line/armeria/pull/4293) 기여하였습니다.
-
-![image](https://user-images.githubusercontent.com/77221262/174198027-a61a3a7b-e179-4dd7-8746-c05e893997ec.png)
-
-
-![badge](https://img.shields.io/badge/github-GIVEME--STAR-red)
-[![wakatime-since-2021-08](https://wakatime.com/badge/user/9ac46ecd-614f-4eb7-be89-6776962877a4.svg)](https://wakatime.com/@9ac46ecd-614f-4eb7-be89-6776962877a4)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDavidHabot&count_bg=%234FC83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+**2024** AI기반 Commerce 자동화 서비스 CommerceOS/AI Retailer 개발사 `인핸스` 개발팀
+- 11번가 내 CJ 벤더사 매출 인사이트 분석 대시보드 PoC 진행
+- 국내 소싱마켓에서 구매한 상품/쿠폰을 기반으로 판매마켓에 상품을 판매해 시세차익을 얻는 AI Retailer 프로젝트 참여
